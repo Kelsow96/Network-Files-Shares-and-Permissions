@@ -151,3 +151,9 @@ In this lab, we'll create sample file shares on a Domain Controller with various
 
 ![image](https://github.com/Kelsow96/Network-Files-Shares-and-Permissions/assets/169297569/437988a5-1067-47f6-a2ea-f5ca34fa6420)
 ![image](https://github.com/Kelsow96/Network-Files-Shares-and-Permissions/assets/169297569/09a5b4d4-c98d-4141-8046-74d6e80173ff)
+<br>
+</br>
+
+<h2> Summary </h2>
+
+In conclusion, we successfully created and configured sample folders with specific permissions on the Domain Controller (DC-1). We established the "read-access", "write-access", "no-access", and "accounting" folders and set appropriate permissions for the "Domain Users" and "Domain Admins" groups. We tested access permissions using a normal user account on a client machine (Client-1), verifying the correct read/write capabilities. Additionally, we created an "ACCOUNTANTS" security group in Active Directory, assigned it the necessary permissions for the "accounting" folder, and validated access by adding a user to the group and confirming their ability to interact with the folder as intended. This process ensures proper folder access control and security management within the domain.
