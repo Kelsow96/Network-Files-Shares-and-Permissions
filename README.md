@@ -1,5 +1,7 @@
 <h1> Network Files Shares and Permissions </h1>
 
+<img src="https://github.com/Kelsow96/Network-Files-Shares-and-Permissions/assets/169297569/3fd62a28-23c1-4c08-b8dd-d4c5173b4110" width="400" />
+
 <h2> What are Network Files Shares and Permissions? </h2>
 
 Network File Shares and Permissions manage and control access to files and directories over a network. This includes setting up who can view, modify, or execute files, ensuring secure and organized collaboration, and managing resources.
